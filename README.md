@@ -23,4 +23,4 @@ Unpacking objects: 100% (4/4), done.
 ```
 ### Learn More
 
-- [Laravel](https://laravel.com/docs/7.x)
+- [Laravel](https://laravel.com/docs/7.x) - To know more about Laravel Framework
